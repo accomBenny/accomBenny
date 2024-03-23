@@ -1,0 +1,17 @@
+{
+    "name": "cs921/practice",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "benny",
+            "email": "cs921029@github.com"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.7"
+    }
+}
